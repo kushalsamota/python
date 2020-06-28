@@ -6,3 +6,4 @@
 - `IPYNB` Notebook files for source code
 - `PY` Python scripts to perform various operations
 - `*.html` Html files
+- `.gitignore` file added
